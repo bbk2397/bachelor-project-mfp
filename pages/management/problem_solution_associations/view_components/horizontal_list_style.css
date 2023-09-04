@@ -1,0 +1,11 @@
+<style>
+	.the-group > .row {
+	 	overflow-x: auto;
+	  	white-space: nowrap;
+	  	max-width: 1900px;
+	}
+	.the-group > .row > .col-xs-4 {
+	  	display: inline-block;
+	  	float: none;
+	}
+</style>
